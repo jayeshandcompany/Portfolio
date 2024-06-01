@@ -15,18 +15,12 @@ I'm also learning web development and building machine learning software and sys
 
 Contact me by:
 
-- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com)
-- Github: [@Renovamen](https://github.com/Renovamen)
-- [Google Scholar](https://scholar.google.com/citations?user=RuW6xgMAAAAJ)
-- Linkedin: [xiaohan-zou](https://www.linkedin.com/in/xiaohan-zou)
-- 知乎: [@西伯利亚大恶龙](https://www.zhihu.com/people/chao-neng-gui-su)
-- Personal Website: [zxh.me](https://zxh.me)
+- Email: [jayeshdarda9@gmail.com](mailto:jayeshdarda9@gmail.com)
+- Github: [@jayeshandcompany](https://github.com/jayeshandcompany)
+- Linkedin:   [Jayesh Jain](https://www.linkedin.com/in/jayeshjain18)
 
 
 ## Résumé
 
-- Normal version: [English](https://zxh.me/files/cv/en.pdf) / [中文](https://zxh.me/files/cv/cn.pdf)
+- Normal version: [English]() 
 
-  中文版的更新很可能不及时
-
-- Interesting version: [portfolio.zxh.me](https://portfolio.zxh.me) / [resume.zxh.io](https://resume.zxh.io)
