@@ -2,13 +2,13 @@
 
 ## Biography
 
-Hey there! I am a PhD student at the [Computer Science and Engineering](https://www.eecs.psu.edu/) department of [Pennsylvania State University](https://www.psu.edu/). Previously, I received my master's degree in [Computer Science](https://www.bu.edu/cs/) from [Boston University](https://www.bu.edu/) and my bachelor’s degree in [Software Engineering](http://sse.tongji.edu.cn/) from [Tongji University](https://www.tongji.edu.cn/).
+Hey there! I am a Software Enginner at the [Motherson Technology](https://www.mothersontechnology.com/) . Pursuing my master's Degree from [Uttranchal University](https://www.uudoon.in/), I received my Bachelor's degree in Computer Science from [Teerthanker Mahaveer University](https://www.tmu.ac.in/) 
 
-I'm trying to find a balance between research and engineering.
+I'm trying to find a balance between Automation and engineering.
 
-My current research interests primarily focus on understanding and enhancing the continuity, generalizability, efficiency, and other key properties of machine learning. I am also interested in large multimodal models.
+My current research interests primarily focus on Automating Various Tasks Which Could be Seen in My Projects 
 
-I'm also learning web development and building machine learning software and systems.
+I'm also learning DSA and building Automation software and systems.
 
 
 ## Contact
@@ -23,4 +23,6 @@ Contact me by:
 ## Résumé
 
 - Normal version: [English]() 
+
+
 
