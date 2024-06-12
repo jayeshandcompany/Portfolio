@@ -13,8 +13,8 @@ const terminal: TerminalData[] = [
         content: (
           <div className="py-1">
             <div>
-              Hi, this is Xiaohan Zou. I am a PhD student at the Computer Science and
-              Engineering department of Pennsylvania State University.
+              Hi, this is Jayesh Jain. I am a Software Develover and  student in Computer Science 
+              in Engineering department of Uttranchal University.
             </div>
           </div>
         )
@@ -23,14 +23,14 @@ const terminal: TerminalData[] = [
         id: "about-interests",
         title: "interests.txt",
         type: "file",
-        content: "Machine Learning / Computer Vision / Multimodal Learning"
+        content: "Automation / Machine Learning / Solving Every Day Probles"
       },
       {
         id: "about-who-cares",
         title: "who-cares.txt",
         type: "file",
         content:
-          "I'm looking for a research internship for Summer 2024. I'm open to collaboration on research projects."
+          "I'm looking for a job  I Like Automating Various Tasks Such as Instagram Automation and Birthday Message Automation and Also Developed Various MVC Applications using C#."
       },
       {
         id: "about-contact",
@@ -42,67 +42,47 @@ const terminal: TerminalData[] = [
               Email:{" "}
               <a
                 className="text-blue-300"
-                href="mailto:renovamenzxh@gmail.com"
+                href="mailto:jayeshdarda9@gmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                renovamenzxh@gmail.com
+                jayeshdarda9@gmail.com
               </a>
             </li>
             <li>
               Github:{" "}
               <a
                 className="text-blue-300"
-                href="https://github.com/Renovamen"
+                href="https://github.com/JayeshandCompany"
                 target="_blank"
                 rel="noreferrer"
               >
-                @Renovamen
-              </a>
-            </li>
-            <li>
-              <a
-                className="text-blue-300"
-                href="https://scholar.google.com/citations?user=RuW6xgMAAAAJ"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Google Scholar
+                @jayeshandcompany
               </a>
             </li>
             <li>
               Linkedin:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
+                href="https://www.linkedin.com/in/jayeshjain18"
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan-zou
+                Jayesh Jain
               </a>
             </li>
             <li>
               Personal Website:{" "}
               <a
                 className="text-blue-300"
-                href="https://zxh.me"
+                href="https://portfolio-rj4k.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://zxh.me
+                https://portfolio-rj4k.vercel.app/
               </a>
             </li>
-            <li>
-              知乎:{" "}
-              <a
-                className="text-blue-300"
-                href="https://www.zhihu.com/people/chao-neng-gui-su"
-                target="_blank"
-                rel="noreferrer"
-              >
-                @西伯利亚大恶龙
-              </a>
-            </li>
+           
           </ul>
         )
       }
@@ -114,6 +94,11 @@ const terminal: TerminalData[] = [
     type: "file",
     content: (
       <div className="py-1">
+                <div>
+          <span className="text-yellow-400">Automate</span>(
+          <span className="text-blue-400">Work</span>) <span>{"{"}</span>
+        </div>
+
         <div>
           <span className="text-yellow-400">while</span>(
           <span className="text-blue-400">sleeping</span>) <span>{"{"}</span>
